@@ -1,4 +1,4 @@
-````markdown
+
 # 🎥 XAI Advanced 3-Mode Third Person Camera
 
 [![AMX Mod X](https://img.shields.io/badge/AMX%20Mod%20X-GoldSrc-orange.svg)](https://www.amxmodx.org/)
@@ -1342,4 +1342,4 @@ without requiring the main menu plugin to be present.
 The camera system intentionally keeps its own state, CVARs, commands and camera entity lifecycle, allowing it to remain an independently deployable GoldSrc plugin.
 
 ---
-````
+
